@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Balakrishnan Vasudevan</title>
+    <link>https://bala-krishnan.com/posts/</link>
+    <description>Recent content in Posts on Balakrishnan Vasudevan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bala-krishnan.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2 days before a Google interview</title>
+      <link>https://bala-krishnan.com/2022/06/2-days-before-a-google-interview/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bala-krishnan.com/2022/06/2-days-before-a-google-interview/</guid>
+      <description>I am interviewing for the Systems SRE role with Google (Alphabet) in about 2 days. The SRE team at Google is something that I have looked up to ever since I read the first SRE book. I have tried interviewing for the role twice previously and I wasn&amp;rsquo;t able to go past the phone screen both the times. Hoping that the third time will be the charm!
+Google pioneered the concept of Site Reliability Engineering, which is an amalgamation of systems engineering, coding and scripting, and networking functions.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://bala-krishnan.com/2022/06/test/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bala-krishnan.com/2022/06/test/</guid>
+      <description>test post</description>
+    </item>
+    
+    <item>
+      <title>What a year!</title>
+      <link>https://bala-krishnan.com/2022/01/what-a-year/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bala-krishnan.com/2022/01/what-a-year/</guid>
+      <description>I grew up in the southern part of India and one of the things I loved doing the most at the end of the year was reading through the year-end summaries that the newspaper &amp;ldquo;The Hindu&amp;rdquo; published. It was a summary of the important events for every day of the year with some articles written by the top newsmakers of the year. This blog post is my attempt to do the same about how I did during 2021.</description>
+    </item>
+    
+    <item>
+      <title>The ever growing to-do list</title>
+      <link>https://bala-krishnan.com/2021/12/the-ever-growing-to-do-list/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bala-krishnan.com/2021/12/the-ever-growing-to-do-list/</guid>
+      <description>I set goals for how I want to grow my technical skills every year that I have been employed and fall short. 2021 was a similar year too. I set goals and fell short, by more than a mile.
+So, what did I plan to learn this year? I wanted to get better with my Kubernetes knowledge and clear the CKA certification. How did I fare? I did learn a lot about Kubernetes as part of my job and my oncall duties, but I was not able to take the certification and had to cancel the registration for the exam.</description>
+    </item>
+    
+    <item>
+      <title>How I Learned to Stop Procrastinating, &amp; Love Letting Go</title>
+      <link>https://bala-krishnan.com/2021/12/how-i-learned-to-stop-procrastinating-love-letting-go/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bala-krishnan.com/2021/12/how-i-learned-to-stop-procrastinating-love-letting-go/</guid>
+      <description>Test page for the theme. The end of procrastination is the art of letting go.
+I’ve been a lifelong procrastinator, at least until recent years. I would put things off until deadline, because I knew I could come through. I came through on tests after cramming last minute, I turned articles in at the deadline after waiting until the last hour, I got things done.
+Until I didn’t. It turns out procrastinating caused me to miss deadlines, over and over.</description>
+    </item>
+    
+  </channel>
+</rss>
