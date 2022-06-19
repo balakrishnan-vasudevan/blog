@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Balakrishnan Vasudevan"
 theme = "ink-free"
 paginate = 5
-
 copyright = "© Copyright notice"
 
 [permalinks]
@@ -74,3 +73,5 @@ url = "/index.xml"
     noClasses = true
     style = "paraiso-dark"
     tabWidth = 4
+
+future = true
