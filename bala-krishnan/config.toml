@@ -1,0 +1,76 @@
+baseURL = "https://bala-krishnan.com/"
+languageCode = "en-us"
+title = "Balakrishnan Vasudevan"
+theme = "ink-free"
+paginate = 5
+
+copyright = "© Copyright notice"
+
+[permalinks]
+  posts = "/:year/:month/:title"
+
+[params]
+	subtitle = "Hi! I'm Bala. This is my blog, I write on topics related to systems and site reliability. I work on [Site Reliability ](https://www.linkedin.com/in/balakrishnanvasudevan/) for a PaaS team at Salesforce. Previously, I held similar roles at Shape Security (acquired by F5 Networks) and Appfolio"
+
+	# Optional 64x64 avatar image.
+	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+
+	featherIconsCDN = false
+
+	# Enable a table of contents
+	toc = true
+
+	# Max tags
+  	maxTags = 7
+
+  	# Define words per minute to approximate reading time
+  	wpm = 250
+
+
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/balakrishnan-vasudevan"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/Balki90"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "paraiso-dark"
+    tabWidth = 4

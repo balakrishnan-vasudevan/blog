@@ -1,0 +1,7 @@
+[submodule "bala-krishnan/public"]
+	path = bala-krishnan/public
+	url = https://github.com/balakrishnan-vasudevan/balakrishnan-vasudevan.com.git
+	branch = main
+[submodule "bala-krishnan/themes/ink-free"]
+	path = bala-krishnan/themes/ink-free
+	url = https://github.com/chollinger93/ink-free
